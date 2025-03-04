@@ -135,10 +135,10 @@ Forking a repository on GitHub creates an independent copy of another user’s r
 
 Forking vs. Cloning
 Feature	Forking	Cloning
-Creates a new repository on GitHub	✅ Yes	❌ No
-Links back to the original repository	✅ Yes	❌ No
-Allows pushing changes to the original repo	❌ No (unless with a pull request)	✅ Yes (if you have write access)
-Used for open-source contributions	✅ Yes	❌ No
+Creates a new repository on GitHub	
+Links back to the original repository	
+Allows pushing changes to the original repo	
+Used for open-source contributions	
 Cloning is useful when you need a local copy of a repository to work on, while forking is ideal when you want to contribute to a project but don’t have direct access to make changes.
 
 Scenarios Where Forking is Useful
